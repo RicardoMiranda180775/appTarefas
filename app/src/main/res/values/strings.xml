@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppTarefas</string>
+    <string name="title_activity_task_screen">TaskScreen</string>
+    <string name="title_activity_main_task">MainActivityTask</string>
+</resources>
